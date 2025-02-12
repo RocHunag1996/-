@@ -19,17 +19,20 @@
    - 将大文件或文件夹按指定大小（例如500MB）自动分卷压缩成多个小文件。  
    - 支持自定义每个压缩包的最大大小，完美适配各种平台的文件限制。  
    - 压缩包保存在与源文件夹同级的目录中，方便查找和管理。
+   - 下载<https://github.com/RocHunag1996/script/tree/main/exe>
 ![image](https://github.com/user-attachments/assets/f9422916-0228-4139-be49-2ce6ca220f03)
 
 
 2. **一键重命名**  
    - 批量重命名文件夹中的文件，支持自定义前缀。  
    - 文件名按顺序编号，清晰有序，方便后续整理和使用。
+   - 下载<https://github.com/RocHunag1996/script/tree/main/exe>
 ![image](https://github.com/user-attachments/assets/62d897c2-6d7a-4b14-bce8-0e9eae8b4148)
 
 3. **批量解压**  
    - 一键解压多个压缩文件，每个压缩包解压到独立的文件夹中。  
    - 支持解压 `.zip` 格式文件，快速提取内容。
+   - 下载<https://github.com/RocHunag1996/script/tree/main/exe>
 ![image](https://github.com/user-attachments/assets/5f7d5dfb-e27d-4cb3-b959-0a2e68db9ebb)
 
 4. **将excel文件转换为ris文件**  
@@ -78,7 +81,7 @@
 ---
 
 #### **下载与使用**
-本工具已打包为 `.exe` 文件，无需安装 Python，下载后即可直接使用。点击[此处] <https://github.com/RocHunag1996/script/tree/main/exe>下载最新版本。
+本工具已打包为 `.exe` 文件，无需安装 Python，下载后即可直接使用。点击[此处] <https://github.com/RocHunag1996/script/releases/tag/V1.0>下载最新版本。
 
 ---
 
